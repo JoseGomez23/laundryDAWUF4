@@ -42,7 +42,11 @@ Siuuuu
 
 Siuuuuuuuuu V2
 
+<<<<<<< HEAD
 
 # Comentari com a colaborador
 Nom: Alvaro Gomez
 Rol: Colaborador
+
+Jose Gomez (Propietari)
+
