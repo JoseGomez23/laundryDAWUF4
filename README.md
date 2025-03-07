@@ -41,3 +41,9 @@
 Siuuuu
 
 Siuuuuuuuuu V2
+
+
+# Comentari fet per alvaro gomez al readme
+
+Nom: Alvaro Gomez
+Rol: Colaboradro
