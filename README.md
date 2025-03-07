@@ -41,3 +41,8 @@
 Siuuuu
 
 Siuuuuuuuuu V2
+
+
+# Comentari com a colaborador
+Nom: Alvaro Gomez
+Rol: Colaborador
